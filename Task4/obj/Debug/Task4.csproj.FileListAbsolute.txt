@@ -1,0 +1,52 @@
+D:\Axelerate\Task4\bin\Debug\Task4.dll
+D:\Axelerate\Task4\bin\Debug\Task4.pdb
+D:\Axelerate\Task4\obj\Debug\Task4.csproj.AssemblyReference.cache
+D:\Axelerate\Task4\obj\Debug\View\MainWindow.baml
+D:\Axelerate\Task4\obj\Debug\View\MainWindow.g.cs
+D:\Axelerate\Task4\obj\Debug\Task4_MarkupCompile.cache
+D:\Axelerate\Task4\obj\Debug\Task4_MarkupCompile.lref
+D:\Axelerate\Task4\obj\Debug\Task4.g.resources
+D:\Axelerate\Task4\obj\Debug\Task4.Properties.Resources.resources
+D:\Axelerate\Task4\obj\Debug\Task4.csproj.GenerateResource.cache
+D:\Axelerate\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+D:\Axelerate\Task4\obj\Debug\Task4.dll
+D:\Axelerate\Task4\obj\Debug\Task4.pdb
+D:\AxelerateBackup\Task4\bin\Debug\Task4.dll
+D:\AxelerateBackup\Task4\bin\Debug\Task4.pdb
+D:\AxelerateBackup\Task4\obj\Debug\Task4.csproj.AssemblyReference.cache
+D:\AxelerateBackup\Task4\obj\Debug\View\MainWindow.g.cs
+D:\AxelerateBackup\Task4\obj\Debug\Task4_MarkupCompile.cache
+D:\AxelerateBackup\Task4\obj\Debug\Task4_MarkupCompile.lref
+D:\AxelerateBackup\Task4\obj\Debug\View\MainWindow.baml
+D:\AxelerateBackup\Task4\obj\Debug\Task4.g.resources
+D:\AxelerateBackup\Task4\obj\Debug\Task4.Properties.Resources.resources
+D:\AxelerateBackup\Task4\obj\Debug\Task4.csproj.GenerateResource.cache
+D:\AxelerateBackup\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+D:\AxelerateBackup\Task4\obj\Debug\Task4.dll
+D:\AxelerateBackup\Task4\obj\Debug\Task4.pdb
+D:\Axelerate Task\Task4\bin\Debug\Task4.dll
+D:\Axelerate Task\Task4\bin\Debug\Task4.pdb
+D:\Axelerate Task\Task4\obj\Debug\Task4.csproj.AssemblyReference.cache
+D:\Axelerate Task\Task4\obj\Debug\View\FramingMainWindow.baml
+D:\Axelerate Task\Task4\obj\Debug\View\FramingMainWindow.g.cs
+D:\Axelerate Task\Task4\obj\Debug\Task4_MarkupCompile.cache
+D:\Axelerate Task\Task4\obj\Debug\Task4_MarkupCompile.lref
+D:\Axelerate Task\Task4\obj\Debug\Task4.g.resources
+D:\Axelerate Task\Task4\obj\Debug\Task4.Properties.Resources.resources
+D:\Axelerate Task\Task4\obj\Debug\Task4.csproj.GenerateResource.cache
+D:\Axelerate Task\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+D:\Axelerate Task\Task4\obj\Debug\Task4.dll
+D:\Axelerate Task\Task4\obj\Debug\Task4.pdb
+D:\Axelerate Task2\Task4\bin\Debug\Task4.dll
+D:\Axelerate Task2\Task4\bin\Debug\Task4.pdb
+D:\Axelerate Task2\Task4\obj\Debug\Task4.csproj.AssemblyReference.cache
+D:\Axelerate Task2\Task4\obj\Debug\View\FramingMainWindow.g.cs
+D:\Axelerate Task2\Task4\obj\Debug\Task4_MarkupCompile.cache
+D:\Axelerate Task2\Task4\obj\Debug\Task4_MarkupCompile.lref
+D:\Axelerate Task2\Task4\obj\Debug\View\FramingMainWindow.baml
+D:\Axelerate Task2\Task4\obj\Debug\Task4.g.resources
+D:\Axelerate Task2\Task4\obj\Debug\Task4.Properties.Resources.resources
+D:\Axelerate Task2\Task4\obj\Debug\Task4.csproj.GenerateResource.cache
+D:\Axelerate Task2\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+D:\Axelerate Task2\Task4\obj\Debug\Task4.dll
+D:\Axelerate Task2\Task4\obj\Debug\Task4.pdb

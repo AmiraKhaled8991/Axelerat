@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Axelerate</Name>
+		<Assembly>Axelerate.dll</Assembly>
+		<AddInId>
+			C336264F-697E-40D2-ABBE-BC0EB792D7F5
+		</AddInId>
+		<FullClassName>Axelerate.Application.ExternalApp</FullClassName>
+		<Text>Create Panel-tab-button</Text>
+		<Description>
+			Create Panel-tab-button
+		</Description>
+		<VendorId>Axelerate</VendorId>
+		<VendorDescription>@Axelerate</VendorDescription>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+	</AddIn>
+
+
+</RevitAddIns>
+

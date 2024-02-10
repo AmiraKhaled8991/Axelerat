@@ -1,0 +1,26 @@
+D:\AxelerateBackup\Task5\bin\Debug\Task5.dll
+D:\AxelerateBackup\Task5\bin\Debug\Task5.pdb
+D:\AxelerateBackup\Task5\obj\Debug\Task5.csproj.AssemblyReference.cache
+D:\AxelerateBackup\Task5\obj\Debug\UserControl1.g.cs
+D:\AxelerateBackup\Task5\obj\Debug\Task5_MarkupCompile.cache
+D:\AxelerateBackup\Task5\obj\Debug\Task5_MarkupCompile.lref
+D:\AxelerateBackup\Task5\obj\Debug\UserControl1.baml
+D:\AxelerateBackup\Task5\obj\Debug\Task5.g.resources
+D:\AxelerateBackup\Task5\obj\Debug\Task5.Properties.Resources.resources
+D:\AxelerateBackup\Task5\obj\Debug\Task5.csproj.GenerateResource.cache
+D:\AxelerateBackup\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+D:\AxelerateBackup\Task5\obj\Debug\Task5.dll
+D:\AxelerateBackup\Task5\obj\Debug\Task5.pdb
+D:\Axelerate Task\Task5\bin\Debug\Task5.dll
+D:\Axelerate Task\Task5\bin\Debug\Task5.pdb
+D:\Axelerate Task\Task5\obj\Debug\Task5.csproj.AssemblyReference.cache
+D:\Axelerate Task\Task5\obj\Debug\UserControl1.baml
+D:\Axelerate Task\Task5\obj\Debug\UserControl1.g.cs
+D:\Axelerate Task\Task5\obj\Debug\Task5_MarkupCompile.cache
+D:\Axelerate Task\Task5\obj\Debug\Task5_MarkupCompile.lref
+D:\Axelerate Task\Task5\obj\Debug\Task5.g.resources
+D:\Axelerate Task\Task5\obj\Debug\Task5.Properties.Resources.resources
+D:\Axelerate Task\Task5\obj\Debug\Task5.csproj.GenerateResource.cache
+D:\Axelerate Task\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+D:\Axelerate Task\Task5\obj\Debug\Task5.dll
+D:\Axelerate Task\Task5\obj\Debug\Task5.pdb

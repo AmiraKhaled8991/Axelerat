@@ -1,0 +1,295 @@
+D:\Axelerate\Task3\bin\Debug\Task3.dll
+D:\Axelerate\Task3\bin\Debug\Task3.pdb
+D:\Axelerate\Task3\bin\Debug\RevitAPI.dll
+D:\Axelerate\Task3\bin\Debug\RevitAPIUI.dll
+D:\Axelerate\Task3\bin\Debug\AdpSDKCSharpWrapper.dll
+D:\Axelerate\Task3\bin\Debug\AdskRcManaged.dll
+D:\Axelerate\Task3\bin\Debug\RevitAPIFoundation.dll
+D:\Axelerate\Task3\bin\Debug\RevitDBAPI.dll
+D:\Axelerate\Task3\bin\Debug\RevitDBCoreAPI.dll
+D:\Axelerate\Task3\bin\Debug\PersistenceDBAPI.dll
+D:\Axelerate\Task3\bin\Debug\UtilityAPI.dll
+D:\Axelerate\Task3\bin\Debug\APIDBAPI.dll
+D:\Axelerate\Task3\bin\Debug\GraphicsAPI.dll
+D:\Axelerate\Task3\bin\Debug\ElementGroupDBAPI.dll
+D:\Axelerate\Task3\bin\Debug\EssentialsDBAPI.dll
+D:\Axelerate\Task3\bin\Debug\GeomUtilAPI.dll
+D:\Axelerate\Task3\bin\Debug\FamilyDBAPI.dll
+D:\Axelerate\Task3\bin\Debug\DetailDBAPI.dll
+D:\Axelerate\Task3\bin\Debug\CurtainGridFamilyDBAPI.dll
+D:\Axelerate\Task3\bin\Debug\ArrayElemsDBAPI.dll
+D:\Axelerate\Task3\bin\Debug\EnergyAnalysisDBAPI.dll
+D:\Axelerate\Task3\bin\Debug\BuildingSystemsDBAPI.dll
+D:\Axelerate\Task3\bin\Debug\HostObjDBAPI.dll
+D:\Axelerate\Task3\bin\Debug\RoomAreaPlanDBAPI.dll
+D:\Axelerate\Task3\bin\Debug\SiteDBAPI.dll
+D:\Axelerate\Task3\bin\Debug\SculptingDBAPI.dll
+D:\Axelerate\Task3\bin\Debug\StructuralDBAPI.dll
+D:\Axelerate\Task3\bin\Debug\InterfaceAPI.dll
+D:\Axelerate\Task3\bin\Debug\InterfaceUtilAPI.dll
+D:\Axelerate\Task3\bin\Debug\RebarDBAPI.dll
+D:\Axelerate\Task3\bin\Debug\StructuralAnalysisDBAPI.dll
+D:\Axelerate\Task3\bin\Debug\MassingDBAPI.dll
+D:\Axelerate\Task3\bin\Debug\AssemblyDBAPI.dll
+D:\Axelerate\Task3\bin\Debug\DPartDBAPI.dll
+D:\Axelerate\Task3\bin\Debug\NumberingDBAPI.dll
+D:\Axelerate\Task3\bin\Debug\PointCloudAccessAPI.dll
+D:\Axelerate\Task3\bin\Debug\StairRampDBAPI.dll
+D:\Axelerate\Task3\bin\Debug\AnalysisAppsDBAPI.dll
+D:\Axelerate\Task3\bin\Debug\MaterialDBAPI.dll
+D:\Axelerate\Task3\bin\Debug\IntfATFAPI.dll
+D:\Axelerate\Task3\bin\Debug\TextEngineAPI.dll
+D:\Axelerate\Task3\bin\Debug\InfrastructureDBAPI.dll
+D:\Axelerate\Task3\bin\Debug\ATFRevitCoreAPI.dll
+D:\Axelerate\Task3\bin\Debug\DBManagedServices.dll
+D:\Axelerate\Task3\bin\Debug\AdWindows.dll
+D:\Axelerate\Task3\bin\Debug\RevitAddInUtility.dll
+D:\Axelerate\Task3\bin\Debug\APIInterop.dll
+D:\Axelerate\Task3\bin\Debug\UIFramework.dll
+D:\Axelerate\Task3\bin\Debug\AddInManager.dll
+D:\Axelerate\Task3\bin\Debug\RevitUIAPI.dll
+D:\Axelerate\Task3\bin\Debug\BuildingSystemsUIAPI.dll
+D:\Axelerate\Task3\bin\Debug\DesktopMFCAPI.dll
+D:\Axelerate\Task3\bin\Debug\APIUIAPI.dll
+D:\Axelerate\Task3\bin\Debug\RevitMFCAPI.dll
+D:\Axelerate\Task3\bin\Debug\EssentialsUIAPI.dll
+D:\Axelerate\Task3\bin\Debug\DetailUIAPI.dll
+D:\Axelerate\Task3\bin\Debug\UIFrameworkServices.dll
+D:\Axelerate\Task3\bin\Debug\Autodesk.UI.Windows.dll
+D:\Axelerate\Task3\bin\Debug\Autodesk.UI.Themes.dll
+D:\Axelerate\Task3\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Axelerate\Task3\bin\Debug\SSONET.dll
+D:\Axelerate\Task3\bin\Debug\CompositionServices.dll
+D:\Axelerate\Task3\bin\Debug\Autodesk.UI.Windows.WebOnDesktop.dll
+D:\Axelerate\Task3\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\Axelerate\Task3\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\Axelerate\Task3\bin\Debug\RevitAPI.xml
+D:\Axelerate\Task3\bin\Debug\RevitAPIUI.xml
+D:\Axelerate\Task3\bin\Debug\RevitAddInUtility.xml
+D:\Axelerate\Task3\bin\Debug\cs-CZ\AdWindows.resources.dll
+D:\Axelerate\Task3\bin\Debug\de-DE\AdWindows.resources.dll
+D:\Axelerate\Task3\bin\Debug\en-GB\AdWindows.resources.dll
+D:\Axelerate\Task3\bin\Debug\en-US\AdWindows.resources.dll
+D:\Axelerate\Task3\bin\Debug\es-ES\AdWindows.resources.dll
+D:\Axelerate\Task3\bin\Debug\fr-FR\AdWindows.resources.dll
+D:\Axelerate\Task3\bin\Debug\it-IT\AdWindows.resources.dll
+D:\Axelerate\Task3\bin\Debug\ja-JP\AdWindows.resources.dll
+D:\Axelerate\Task3\bin\Debug\ko-KR\AdWindows.resources.dll
+D:\Axelerate\Task3\bin\Debug\pl-PL\AdWindows.resources.dll
+D:\Axelerate\Task3\bin\Debug\pt-BR\AdWindows.resources.dll
+D:\Axelerate\Task3\bin\Debug\ru-RU\AdWindows.resources.dll
+D:\Axelerate\Task3\bin\Debug\zh-CN\AdWindows.resources.dll
+D:\Axelerate\Task3\bin\Debug\zh-TW\AdWindows.resources.dll
+D:\Axelerate\Task3\obj\Debug\Task3.csproj.AssemblyReference.cache
+D:\Axelerate\Task3\obj\Debug\View\UserControl1.g.cs
+D:\Axelerate\Task3\obj\Debug\Task3_MarkupCompile.cache
+D:\Axelerate\Task3\obj\Debug\Task3_MarkupCompile.lref
+D:\Axelerate\Task3\obj\Debug\View\UserControl1.baml
+D:\Axelerate\Task3\obj\Debug\Task3.g.resources
+D:\Axelerate\Task3\obj\Debug\Task3.Properties.Resources.resources
+D:\Axelerate\Task3\obj\Debug\Task3.csproj.GenerateResource.cache
+D:\Axelerate\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+D:\Axelerate\Task3\obj\Debug\Task3.csproj.CopyComplete
+D:\Axelerate\Task3\obj\Debug\Task3.dll
+D:\Axelerate\Task3\obj\Debug\Task3.pdb
+D:\AxelerateBackup\Task3\bin\Debug\Task3.dll
+D:\AxelerateBackup\Task3\bin\Debug\Task3.pdb
+D:\AxelerateBackup\Task3\bin\Debug\RevitAPI.dll
+D:\AxelerateBackup\Task3\bin\Debug\RevitAPIUI.dll
+D:\AxelerateBackup\Task3\bin\Debug\AdpSDKCSharpWrapper.dll
+D:\AxelerateBackup\Task3\bin\Debug\AdskRcManaged.dll
+D:\AxelerateBackup\Task3\bin\Debug\RevitAPIFoundation.dll
+D:\AxelerateBackup\Task3\bin\Debug\RevitDBAPI.dll
+D:\AxelerateBackup\Task3\bin\Debug\RevitDBCoreAPI.dll
+D:\AxelerateBackup\Task3\bin\Debug\PersistenceDBAPI.dll
+D:\AxelerateBackup\Task3\bin\Debug\UtilityAPI.dll
+D:\AxelerateBackup\Task3\bin\Debug\APIDBAPI.dll
+D:\AxelerateBackup\Task3\bin\Debug\GraphicsAPI.dll
+D:\AxelerateBackup\Task3\bin\Debug\ElementGroupDBAPI.dll
+D:\AxelerateBackup\Task3\bin\Debug\EssentialsDBAPI.dll
+D:\AxelerateBackup\Task3\bin\Debug\GeomUtilAPI.dll
+D:\AxelerateBackup\Task3\bin\Debug\FamilyDBAPI.dll
+D:\AxelerateBackup\Task3\bin\Debug\DetailDBAPI.dll
+D:\AxelerateBackup\Task3\bin\Debug\CurtainGridFamilyDBAPI.dll
+D:\AxelerateBackup\Task3\bin\Debug\ArrayElemsDBAPI.dll
+D:\AxelerateBackup\Task3\bin\Debug\EnergyAnalysisDBAPI.dll
+D:\AxelerateBackup\Task3\bin\Debug\BuildingSystemsDBAPI.dll
+D:\AxelerateBackup\Task3\bin\Debug\HostObjDBAPI.dll
+D:\AxelerateBackup\Task3\bin\Debug\RoomAreaPlanDBAPI.dll
+D:\AxelerateBackup\Task3\bin\Debug\SiteDBAPI.dll
+D:\AxelerateBackup\Task3\bin\Debug\SculptingDBAPI.dll
+D:\AxelerateBackup\Task3\bin\Debug\StructuralDBAPI.dll
+D:\AxelerateBackup\Task3\bin\Debug\InterfaceAPI.dll
+D:\AxelerateBackup\Task3\bin\Debug\InterfaceUtilAPI.dll
+D:\AxelerateBackup\Task3\bin\Debug\RebarDBAPI.dll
+D:\AxelerateBackup\Task3\bin\Debug\StructuralAnalysisDBAPI.dll
+D:\AxelerateBackup\Task3\bin\Debug\MassingDBAPI.dll
+D:\AxelerateBackup\Task3\bin\Debug\AssemblyDBAPI.dll
+D:\AxelerateBackup\Task3\bin\Debug\DPartDBAPI.dll
+D:\AxelerateBackup\Task3\bin\Debug\NumberingDBAPI.dll
+D:\AxelerateBackup\Task3\bin\Debug\PointCloudAccessAPI.dll
+D:\AxelerateBackup\Task3\bin\Debug\StairRampDBAPI.dll
+D:\AxelerateBackup\Task3\bin\Debug\AnalysisAppsDBAPI.dll
+D:\AxelerateBackup\Task3\bin\Debug\MaterialDBAPI.dll
+D:\AxelerateBackup\Task3\bin\Debug\IntfATFAPI.dll
+D:\AxelerateBackup\Task3\bin\Debug\TextEngineAPI.dll
+D:\AxelerateBackup\Task3\bin\Debug\InfrastructureDBAPI.dll
+D:\AxelerateBackup\Task3\bin\Debug\ATFRevitCoreAPI.dll
+D:\AxelerateBackup\Task3\bin\Debug\DBManagedServices.dll
+D:\AxelerateBackup\Task3\bin\Debug\AdWindows.dll
+D:\AxelerateBackup\Task3\bin\Debug\RevitAddInUtility.dll
+D:\AxelerateBackup\Task3\bin\Debug\APIInterop.dll
+D:\AxelerateBackup\Task3\bin\Debug\UIFramework.dll
+D:\AxelerateBackup\Task3\bin\Debug\AddInManager.dll
+D:\AxelerateBackup\Task3\bin\Debug\RevitUIAPI.dll
+D:\AxelerateBackup\Task3\bin\Debug\BuildingSystemsUIAPI.dll
+D:\AxelerateBackup\Task3\bin\Debug\DesktopMFCAPI.dll
+D:\AxelerateBackup\Task3\bin\Debug\APIUIAPI.dll
+D:\AxelerateBackup\Task3\bin\Debug\RevitMFCAPI.dll
+D:\AxelerateBackup\Task3\bin\Debug\EssentialsUIAPI.dll
+D:\AxelerateBackup\Task3\bin\Debug\DetailUIAPI.dll
+D:\AxelerateBackup\Task3\bin\Debug\UIFrameworkServices.dll
+D:\AxelerateBackup\Task3\bin\Debug\Autodesk.UI.Windows.dll
+D:\AxelerateBackup\Task3\bin\Debug\Autodesk.UI.Themes.dll
+D:\AxelerateBackup\Task3\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\AxelerateBackup\Task3\bin\Debug\SSONET.dll
+D:\AxelerateBackup\Task3\bin\Debug\CompositionServices.dll
+D:\AxelerateBackup\Task3\bin\Debug\Autodesk.UI.Windows.WebOnDesktop.dll
+D:\AxelerateBackup\Task3\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\AxelerateBackup\Task3\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\AxelerateBackup\Task3\bin\Debug\RevitAPI.xml
+D:\AxelerateBackup\Task3\bin\Debug\RevitAPIUI.xml
+D:\AxelerateBackup\Task3\bin\Debug\RevitAddInUtility.xml
+D:\AxelerateBackup\Task3\bin\Debug\cs-CZ\AdWindows.resources.dll
+D:\AxelerateBackup\Task3\bin\Debug\de-DE\AdWindows.resources.dll
+D:\AxelerateBackup\Task3\bin\Debug\en-GB\AdWindows.resources.dll
+D:\AxelerateBackup\Task3\bin\Debug\en-US\AdWindows.resources.dll
+D:\AxelerateBackup\Task3\bin\Debug\es-ES\AdWindows.resources.dll
+D:\AxelerateBackup\Task3\bin\Debug\fr-FR\AdWindows.resources.dll
+D:\AxelerateBackup\Task3\bin\Debug\it-IT\AdWindows.resources.dll
+D:\AxelerateBackup\Task3\bin\Debug\ja-JP\AdWindows.resources.dll
+D:\AxelerateBackup\Task3\bin\Debug\ko-KR\AdWindows.resources.dll
+D:\AxelerateBackup\Task3\bin\Debug\pl-PL\AdWindows.resources.dll
+D:\AxelerateBackup\Task3\bin\Debug\pt-BR\AdWindows.resources.dll
+D:\AxelerateBackup\Task3\bin\Debug\ru-RU\AdWindows.resources.dll
+D:\AxelerateBackup\Task3\bin\Debug\zh-CN\AdWindows.resources.dll
+D:\AxelerateBackup\Task3\bin\Debug\zh-TW\AdWindows.resources.dll
+D:\AxelerateBackup\Task3\obj\Debug\Task3.csproj.AssemblyReference.cache
+D:\AxelerateBackup\Task3\obj\Debug\View\UserControl1.g.cs
+D:\AxelerateBackup\Task3\obj\Debug\Task3_MarkupCompile.cache
+D:\AxelerateBackup\Task3\obj\Debug\Task3_MarkupCompile.lref
+D:\AxelerateBackup\Task3\obj\Debug\View\UserControl1.baml
+D:\AxelerateBackup\Task3\obj\Debug\Task3.g.resources
+D:\AxelerateBackup\Task3\obj\Debug\Task3.Properties.Resources.resources
+D:\AxelerateBackup\Task3\obj\Debug\Task3.csproj.GenerateResource.cache
+D:\AxelerateBackup\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+D:\AxelerateBackup\Task3\obj\Debug\Task3.csproj.CopyComplete
+D:\AxelerateBackup\Task3\obj\Debug\Task3.dll
+D:\AxelerateBackup\Task3\obj\Debug\Task3.pdb
+D:\Axelerate Task\Task3\bin\Debug\Task3.dll
+D:\Axelerate Task\Task3\bin\Debug\Task3.pdb
+D:\Axelerate Task\Task3\bin\Debug\RevitAPI.dll
+D:\Axelerate Task\Task3\bin\Debug\RevitAPIUI.dll
+D:\Axelerate Task\Task3\bin\Debug\AdpSDKCSharpWrapper.dll
+D:\Axelerate Task\Task3\bin\Debug\AdskRcManaged.dll
+D:\Axelerate Task\Task3\bin\Debug\RevitAPIFoundation.dll
+D:\Axelerate Task\Task3\bin\Debug\RevitDBAPI.dll
+D:\Axelerate Task\Task3\bin\Debug\RevitDBCoreAPI.dll
+D:\Axelerate Task\Task3\bin\Debug\PersistenceDBAPI.dll
+D:\Axelerate Task\Task3\bin\Debug\UtilityAPI.dll
+D:\Axelerate Task\Task3\bin\Debug\APIDBAPI.dll
+D:\Axelerate Task\Task3\bin\Debug\GraphicsAPI.dll
+D:\Axelerate Task\Task3\bin\Debug\ElementGroupDBAPI.dll
+D:\Axelerate Task\Task3\bin\Debug\EssentialsDBAPI.dll
+D:\Axelerate Task\Task3\bin\Debug\GeomUtilAPI.dll
+D:\Axelerate Task\Task3\bin\Debug\FamilyDBAPI.dll
+D:\Axelerate Task\Task3\bin\Debug\DetailDBAPI.dll
+D:\Axelerate Task\Task3\bin\Debug\CurtainGridFamilyDBAPI.dll
+D:\Axelerate Task\Task3\bin\Debug\ArrayElemsDBAPI.dll
+D:\Axelerate Task\Task3\bin\Debug\EnergyAnalysisDBAPI.dll
+D:\Axelerate Task\Task3\bin\Debug\BuildingSystemsDBAPI.dll
+D:\Axelerate Task\Task3\bin\Debug\HostObjDBAPI.dll
+D:\Axelerate Task\Task3\bin\Debug\RoomAreaPlanDBAPI.dll
+D:\Axelerate Task\Task3\bin\Debug\SiteDBAPI.dll
+D:\Axelerate Task\Task3\bin\Debug\SculptingDBAPI.dll
+D:\Axelerate Task\Task3\bin\Debug\StructuralDBAPI.dll
+D:\Axelerate Task\Task3\bin\Debug\InterfaceAPI.dll
+D:\Axelerate Task\Task3\bin\Debug\InterfaceUtilAPI.dll
+D:\Axelerate Task\Task3\bin\Debug\RebarDBAPI.dll
+D:\Axelerate Task\Task3\bin\Debug\StructuralAnalysisDBAPI.dll
+D:\Axelerate Task\Task3\bin\Debug\MassingDBAPI.dll
+D:\Axelerate Task\Task3\bin\Debug\AssemblyDBAPI.dll
+D:\Axelerate Task\Task3\bin\Debug\DPartDBAPI.dll
+D:\Axelerate Task\Task3\bin\Debug\NumberingDBAPI.dll
+D:\Axelerate Task\Task3\bin\Debug\PointCloudAccessAPI.dll
+D:\Axelerate Task\Task3\bin\Debug\StairRampDBAPI.dll
+D:\Axelerate Task\Task3\bin\Debug\AnalysisAppsDBAPI.dll
+D:\Axelerate Task\Task3\bin\Debug\MaterialDBAPI.dll
+D:\Axelerate Task\Task3\bin\Debug\IntfATFAPI.dll
+D:\Axelerate Task\Task3\bin\Debug\TextEngineAPI.dll
+D:\Axelerate Task\Task3\bin\Debug\InfrastructureDBAPI.dll
+D:\Axelerate Task\Task3\bin\Debug\ATFRevitCoreAPI.dll
+D:\Axelerate Task\Task3\bin\Debug\DBManagedServices.dll
+D:\Axelerate Task\Task3\bin\Debug\AdWindows.dll
+D:\Axelerate Task\Task3\bin\Debug\RevitAddInUtility.dll
+D:\Axelerate Task\Task3\bin\Debug\APIInterop.dll
+D:\Axelerate Task\Task3\bin\Debug\UIFramework.dll
+D:\Axelerate Task\Task3\bin\Debug\AddInManager.dll
+D:\Axelerate Task\Task3\bin\Debug\RevitUIAPI.dll
+D:\Axelerate Task\Task3\bin\Debug\BuildingSystemsUIAPI.dll
+D:\Axelerate Task\Task3\bin\Debug\DesktopMFCAPI.dll
+D:\Axelerate Task\Task3\bin\Debug\APIUIAPI.dll
+D:\Axelerate Task\Task3\bin\Debug\RevitMFCAPI.dll
+D:\Axelerate Task\Task3\bin\Debug\EssentialsUIAPI.dll
+D:\Axelerate Task\Task3\bin\Debug\DetailUIAPI.dll
+D:\Axelerate Task\Task3\bin\Debug\UIFrameworkServices.dll
+D:\Axelerate Task\Task3\bin\Debug\Autodesk.UI.Windows.dll
+D:\Axelerate Task\Task3\bin\Debug\Autodesk.UI.Themes.dll
+D:\Axelerate Task\Task3\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Axelerate Task\Task3\bin\Debug\SSONET.dll
+D:\Axelerate Task\Task3\bin\Debug\CompositionServices.dll
+D:\Axelerate Task\Task3\bin\Debug\Autodesk.UI.Windows.WebOnDesktop.dll
+D:\Axelerate Task\Task3\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\Axelerate Task\Task3\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\Axelerate Task\Task3\bin\Debug\RevitAPI.xml
+D:\Axelerate Task\Task3\bin\Debug\RevitAPIUI.xml
+D:\Axelerate Task\Task3\bin\Debug\RevitAddInUtility.xml
+D:\Axelerate Task\Task3\bin\Debug\cs-CZ\AdWindows.resources.dll
+D:\Axelerate Task\Task3\bin\Debug\de-DE\AdWindows.resources.dll
+D:\Axelerate Task\Task3\bin\Debug\en-GB\AdWindows.resources.dll
+D:\Axelerate Task\Task3\bin\Debug\en-US\AdWindows.resources.dll
+D:\Axelerate Task\Task3\bin\Debug\es-ES\AdWindows.resources.dll
+D:\Axelerate Task\Task3\bin\Debug\fr-FR\AdWindows.resources.dll
+D:\Axelerate Task\Task3\bin\Debug\it-IT\AdWindows.resources.dll
+D:\Axelerate Task\Task3\bin\Debug\ja-JP\AdWindows.resources.dll
+D:\Axelerate Task\Task3\bin\Debug\ko-KR\AdWindows.resources.dll
+D:\Axelerate Task\Task3\bin\Debug\pl-PL\AdWindows.resources.dll
+D:\Axelerate Task\Task3\bin\Debug\pt-BR\AdWindows.resources.dll
+D:\Axelerate Task\Task3\bin\Debug\ru-RU\AdWindows.resources.dll
+D:\Axelerate Task\Task3\bin\Debug\zh-CN\AdWindows.resources.dll
+D:\Axelerate Task\Task3\bin\Debug\zh-TW\AdWindows.resources.dll
+D:\Axelerate Task\Task3\obj\Debug\Task3.csproj.AssemblyReference.cache
+D:\Axelerate Task\Task3\obj\Debug\View\UserControl1.g.cs
+D:\Axelerate Task\Task3\obj\Debug\Task3_MarkupCompile.cache
+D:\Axelerate Task\Task3\obj\Debug\Task3_MarkupCompile.lref
+D:\Axelerate Task\Task3\obj\Debug\View\UserControl1.baml
+D:\Axelerate Task\Task3\obj\Debug\Task3.g.resources
+D:\Axelerate Task\Task3\obj\Debug\Task3.Properties.Resources.resources
+D:\Axelerate Task\Task3\obj\Debug\Task3.csproj.GenerateResource.cache
+D:\Axelerate Task\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+D:\Axelerate Task\Task3\obj\Debug\Task3.csproj.CopyComplete
+D:\Axelerate Task\Task3\obj\Debug\Task3.dll
+D:\Axelerate Task\Task3\obj\Debug\Task3.pdb
+D:\Axelerate Task2\Task3\bin\Debug\Task3.dll
+D:\Axelerate Task2\Task3\bin\Debug\Task3.pdb
+D:\Axelerate Task2\Task3\obj\Debug\Task3.csproj.AssemblyReference.cache
+D:\Axelerate Task2\Task3\obj\Debug\View\UserControl1.g.cs
+D:\Axelerate Task2\Task3\obj\Debug\Task3_MarkupCompile.cache
+D:\Axelerate Task2\Task3\obj\Debug\Task3_MarkupCompile.lref
+D:\Axelerate Task2\Task3\obj\Debug\View\UserControl1.baml
+D:\Axelerate Task2\Task3\obj\Debug\Task3.g.resources
+D:\Axelerate Task2\Task3\obj\Debug\Task3.Properties.Resources.resources
+D:\Axelerate Task2\Task3\obj\Debug\Task3.csproj.GenerateResource.cache
+D:\Axelerate Task2\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+D:\Axelerate Task2\Task3\obj\Debug\Task3.dll
+D:\Axelerate Task2\Task3\obj\Debug\Task3.pdb
