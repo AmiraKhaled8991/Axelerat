@@ -1,5 +1,6 @@
 ﻿using Autodesk.Revit.DB;
 using Autodesk.Revit.UI;
+using Autodesk.Revit.UI.Selection;
 using Axelerate.Application;
 using Axelerate.Application;
 using Axelerate.Command;
@@ -159,7 +160,6 @@ namespace Axelerate.ViewModel
             }
         }
 
-
         public void CreateCommandMethod (object parameter)
         {
 
@@ -213,9 +213,8 @@ namespace Axelerate.ViewModel
                     Floor floor = Floor.Create(FloorCommand.Doc, floorCurveLoop, floorType.Id, zeroLevel.Id);
 
 
-                    Options options = new Options();
-                    Element floorElement = floor;
-                    var geom1 = floorElement.get_Geometry(options);
+
+                   
 
 
                 }

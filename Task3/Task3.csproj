@@ -62,7 +62,6 @@
     </Page>
     <Compile Include="Command\MyCommand.cs" />
     <Compile Include="Model\ThresholdGeomtry.cs" />
-    <Compile Include="ThresholdRevitCommand\ThresholdCommand.cs" />
     <Compile Include="ThresholdRevitCommand\ThresoldRevitCommand.cs" />
     <Compile Include="ViewModel\MainWindowViewModel.cs" />
     <Compile Include="View\UserControl1.xaml.cs">

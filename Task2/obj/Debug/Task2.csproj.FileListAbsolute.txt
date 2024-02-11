@@ -14,10 +14,10 @@ D:\Axelerate Task\Task2\obj\Debug\Task2.pdb
 D:\Axelerate Task2\Task2\bin\Debug\Task2.dll
 D:\Axelerate Task2\Task2\bin\Debug\Task2.pdb
 D:\Axelerate Task2\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+D:\Axelerate Task2\Task2\obj\Debug\View\RoomMainWindow.baml
 D:\Axelerate Task2\Task2\obj\Debug\View\RoomMainWindow.g.cs
 D:\Axelerate Task2\Task2\obj\Debug\Task2_MarkupCompile.cache
 D:\Axelerate Task2\Task2\obj\Debug\Task2_MarkupCompile.lref
-D:\Axelerate Task2\Task2\obj\Debug\View\RoomMainWindow.baml
 D:\Axelerate Task2\Task2\obj\Debug\Task2.g.resources
 D:\Axelerate Task2\Task2\obj\Debug\Task2.Properties.Resources.resources
 D:\Axelerate Task2\Task2\obj\Debug\Task2.csproj.GenerateResource.cache

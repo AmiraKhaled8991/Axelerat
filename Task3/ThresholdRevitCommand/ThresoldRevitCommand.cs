@@ -7,6 +7,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Autodesk.Revit.Attributes;
+using Autodesk.Revit.UI.Selection;
+using System.Windows.Controls;
+using System.Windows.Shapes;
+using Line = Autodesk.Revit.DB.Line;
+using System.Reflection.Emit;
+using System.Net;
 
 namespace Task3.ThresholdRevitCommand
 {
@@ -101,14 +107,9 @@ namespace Task3.ThresholdRevitCommand
 
                         #region Joining the solids 
 
-                        //From here 
-                        Element f1Element = f1;
-                        Element f2Element = f2;
-                        GeometryElement geom1 = f1Element.get_Geometry(options);
-                        GeometryElement geom2 = f1Element.get_Geometry(options);
-
-                        //GeometryElement geom1 = f1.get_Geometry(options);
-                        //GeometryElement geom2 = f2.get_Geometry(options);
+                         
+                        GeometryElement geom1 = f1.get_Geometry(options);
+                        GeometryElement geom2 = f2.get_Geometry(options);
                         if (geom2 != null && geom1 != null)
                         {
                             List<Solid> solids1 = new List<Solid>(geom1.GetEnumerator() as IEnumerable<Solid>);
@@ -180,3 +181,5 @@ namespace Task3.ThresholdRevitCommand
         }
     }
 }
+
+

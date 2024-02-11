@@ -62,7 +62,6 @@ namespace Axelerate.ViewModel
             LocationCurve locationPoint = wall.Location as LocationCurve;
             Line wallLine = locationPoint.Curve as Line;
             XYZ wallLocation = wallLine.Origin;
-            //LocationPoint locationPoint = wallElement.Location as LocationPoint;
 
             
 
